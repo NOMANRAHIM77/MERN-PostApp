@@ -6,7 +6,27 @@ Users can create posts with captions and images, and view all posts in a dynamic
 Images are uploaded and managed using **ImageKit**, and data is stored in **MongoDB Atlas**.
 
 ---
+## 📸 Application Screenshots
 
+### 🔹 Create Post Page
+![Create Post](./images/createpost.PNG)
+
+### 🔹 Feed Page
+![Feed](./images/feed1.PNG)
+
+### 🔹 Feed Page
+![Feed](./images/feed2.PNG)
+
+### 🔹 ImageKit Integration
+![ImageKit](./images/imagekit.PNG)
+
+### 🔹 API Testing - Get Posts
+![Postman Get](./images/postman.PNG)
+
+### 🔹 MongoDB Atlas Database
+![MongoDB](./images/mongodb.PNG)
+
+---
 ## 🚀 Features
 
 - Create post with image & caption
@@ -64,24 +84,5 @@ Images are uploaded using **ImageKit**, which provides:
 - Optimized image delivery
 - Fast CDN access
 
----
 
-## 📸 Application Screenshots
-
-### 🔹 Create Post Page
-![Create Post](./images/createpost.PNG)
-
-### 🔹 Feed Page
-![Feed](./images/feed.PNG)
-
-### 🔹 ImageKit Integration
-![ImageKit](./images/imagekit.PNG)
-
-### 🔹 API Testing - Get Posts
-![Postman Get](./images/postman.PNG)
-
-### 🔹 MongoDB Atlas Database
-![MongoDB](./images/mongodb.PNG)
-
----
 
